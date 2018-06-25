@@ -10,5 +10,9 @@ public class Democlass {
 		System.out.println("This is a demo test to validate Travis Integration");
 		
 	}
-
+	public void demoMethod(){
+		
+		
+		
+	}
 }
